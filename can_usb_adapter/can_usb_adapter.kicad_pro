@@ -571,7 +571,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -708,7 +708,7 @@
         "uuid": "69d3191f-3288-45d4-8833-0b94eb6a9315"
       }
     ],
-    "used_designators": "#FLG1-2,#PWR1-40,C1-14,D1-5,FB1,J1-4,JP1-2,R1-9,U1-5,Y1",
+    "used_designators": "#FLG1-2,#PWR1-40,C1-14,D1-5,FB1,H1-3,J1-4,JP1-2,R1-9,U1-5,Y1",
     "variants": []
   },
   "sheets": [
