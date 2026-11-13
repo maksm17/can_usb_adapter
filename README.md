@@ -2,6 +2,8 @@
 
 USB-C to dual CAN-FD adapter. On Linux it shows up as `can0` and `can1`, no drivers needed.
 
+I built it to connect ROS 2 with my FOC motor drivers over CAN.
+
 ![can_usb_adapter](can_usb_adapter/docs/board.jpg)
 
 ## Board
