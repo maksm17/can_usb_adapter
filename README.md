@@ -2,7 +2,7 @@
 
 USB-C to dual CAN-FD adapter. On Linux it shows up as `can0` and `can1`, no drivers needed.
 
-![can_usb_adapter](docs/board.jpg)
+![can_usb_adapter](can_usb_adapter/docs/board.jpg)
 
 ## Board
 
